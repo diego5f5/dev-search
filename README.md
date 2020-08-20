@@ -42,20 +42,20 @@ Dev Search is a full-stack project that involves knowledge acquired during the "
 This project was developed with the following technologies:
 
 ### Back-end (API | DB):
--  [Node.js](https://nodejs.org/en/docs/)
--  [MongoDB](https://www.mongodb.com/cloud/atlas)
+-  <a href="https://nodejs.org/en/docs/" target="_blank">Node.js</a>
+-  <a href="https://www.mongodb.com/cloud/atlas" target="_blank">MongoDB</a>
 
 ### Front-end (Web):
--  [React](https://reactjs.org/docs/getting-started.html)
+-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">MongoDB</a>
 
 ### Front-end (Mobile):
--  [React Native](https://reactnative.dev/docs/getting-started)
--  [Expo](https://docs.expo.io/)
+-  <a href="https://reactnative.dev/docs/getting-started" target="_blank">React Native</a>
+-  <a href="https://docs.expo.io/" target="_blank">Expo</a>
 
 
 ## :information_source: How to use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/docs/) + [Yarn](https://yarnpkg.com/) installed on your computer.
+To clone and run this application, you'll need <a href="https://git-scm.com" target="_blank">Git</a>, <a href="https://nodejs.org/en/docs/" target="_blank">Node.js</a> +  <a href="https://yarnpkg.com/" target="_blank">Yarn</a> installed on your computer.
 
 From your command line:
 
