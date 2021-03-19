@@ -47,7 +47,7 @@ This project was developed with the following technologies:
 -  <a href="https://www.mongodb.com/cloud/atlas" target="_blank">MongoDB</a>
 
 ### Front-end (Web):
--  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">MongoDB</a>
+-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">React</a>
 
 ### Front-end (Mobile):
 -  <a href="https://reactnative.dev/docs/getting-started" target="_blank">React Native</a>
