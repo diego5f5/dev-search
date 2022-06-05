@@ -1,7 +1,7 @@
 <h1>Dev Search</h1>
 
 <h4>
-Dev Search is a full-stack project that involves knowledge acquired during the "Semana Omnistack 10" (Series of classes that take place over a period of one week, promoted by RocketSeat).<br/>The project uses technologies such as ReactJS, React Native with Expo, Node.js, MongoDB, etc.</h4>
+Dev Search is a full-stack project based on javascript technologies.<br/>The project uses technologies such as ReactJS, React Native with Expo, Node.js, MongoDB, etc.</h4>
 
 <p align="center">
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
